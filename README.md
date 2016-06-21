@@ -19,6 +19,8 @@ Ability to set and place borders with new juke alert claim block.
 
 Ability to set up 'tax collection' centers and ATMs that would feed into the town's (digital) coffers. The town's central reserve would be held in a single bank block that must be protected. This bank block can be used to tax, as well as hold citizen diamond (or other configurable item) reserves. Breaking an ATM block would reward the attacker with less than 1% of the total funds in the bank. Breaking the bank block would reward the attacker with 100% of funds.
 
+Ability to sanction the creation of "banks" with their own ATMs, fees, and bank block. Same attack vector as central reserve block.
+
 Ability to distribute funds to proposals. I.e. Vote to give 100 diamonds to new charitable organization, located at plot 20.
 
 
