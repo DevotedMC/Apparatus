@@ -23,6 +23,13 @@ Ability to sanction the creation of "banks" with their own ATMs, fees, and bank 
 
 Ability to distribute funds to proposals. I.e. Vote to give 100 diamonds to new charitable organization, located at plot 20.
 
+Splitting this into three plugins:
+
+Bank
+
+Notifications and proposals
+
+Government and plots
 
 
 
